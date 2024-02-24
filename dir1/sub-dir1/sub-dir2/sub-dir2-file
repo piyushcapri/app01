@@ -1,3 +1,4 @@
 sub-dir-2-file
 change 01 : working vs staging
 change 02: diff between added file and unstaged file
+change 03: changes made on git
